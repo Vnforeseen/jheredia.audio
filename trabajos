@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trabajos | Sound Designer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body id="trabajos">
+  <div class="message-container" role="alert" aria-live="polite">
+    <h1>Sin trabajos aún</h1>
+    <p>Aún no hay ningún trabajo :(</p>
+    <a href="index.html" class="back-link" tabindex="0">Volver al inicio</a>
+  </div>
+</body>
+
+</html>
