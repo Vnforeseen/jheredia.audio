@@ -380,7 +380,6 @@ body#trabajos a.back-link:focus {
   color: #ccc;
 }
 
-/* Usamos emojis, así que no necesitamos bullets, pero podemos ajustar */
 .tools ul li::before {
   content: "";
   position: absolute;
