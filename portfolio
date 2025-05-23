@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portfolio | Projects</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>My Portfolio</h1>
+    <p>Sound Design Projects and Redesigns</p>
+  </header>
+
+  <main>
+    <section class="glass project">
+      <h2>INDUSTRIA 2 - Announcement Trailer</h2>
+      <div class="project-content">
+        <div class="video-container">
+          <iframe
+            src="https://www.youtube.com/embed/Lk3EEJIc2xo?si=ai4l7kbeAW0Wb9mb"
+            frameborder="0"
+            allowfullscreen
+            title="Industria 2 Trailer"
+          ></iframe>
+        </div>
+        <div class="project-description">
+          <p>
+          The motivation behind my undertaking of the sound redesign for the Industria 2 teaser stemmed from the fact that, although it is set within a science fiction universe, the environment carries a distinctly organic character—spaces where every minute detail of the player’s surroundings must be perceptible. Consequently, I chose to blend organic sounds enhanced by rich reverberations, while the more robotic sounds were crafted using digital audio synthesis techniques.          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="glass project">
+      <h2>Path of Exile 2 - Voltaic Granade & Plasma Blast</h2>
+      <div class="project-content">
+        <div class="video-container">
+          <iframe
+            src="https://www.youtube.com/embed/5I_35gVZoRg?si=LrG8upt7ixHvx-1R"
+            frameborder="0"
+            allowfullscreen
+            title="Path of Exile 2 Abilities"
+          ></iframe>
+        </div>
+        <div class="project-description">
+          <p>
+          I designed the complete sound kit in the original video with the intention of capturing the same essence as the original game—abilities that make the player feel truly powerful and justify the anticipation before delivering damage to the enemy. The sounds were crafted through post-processing techniques based on a library of foley recordings.          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="glass project">
+      <h2>Wolfenstein: The New Colossus - Lasergewehr</h2>
+      <div class="project-content">
+        <div class="video-container">
+          <iframe
+            src="https://www.youtube.com/embed/XLqLGZ5xd9g?si=tifU7B0umptacoeR"
+            frameborder="0"
+            allowfullscreen
+            title="Wolfenstein II Weapon"
+          ></iframe>
+        </div>
+        <div class="project-description">
+          <p>
+          Upon first encountering this weapon in-game, its impact was deeply imprinted in my mind. The sheer sense of power and the urge to push forward that it conveys to the player is remarkable. I chose to replicate it alongside environmental reverb to further enhance the sonic potential the weapon represents. Both the charging and firing sounds were created through digital post-processing, starting from white noise as the foundational sound source.          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="glass contact">
+      <h2>Contact</h2>
+      <p>Interested in collaborating? Send me an email or message.</p>
+      <a href="mailto:jjj.seheredia@gmail.com" class="btn-contact">Send Email</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 - Julian Heredia | <a href="mailto:jjj.seheredia@gmail.com">jjj.seheredia@gmail.com</a></p>
+  </footer>
+</body>
+</html>
